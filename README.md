@@ -7,5 +7,7 @@ C++,Move,Python
 
 
 @X:https://x.com/1424127349Kebi
-@Telegram:https://t.co/cChnvA0OP2
+
+@Telegram:@Scout0221
+
 gmail:keyuzhong62@gmail.com
