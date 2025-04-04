@@ -1,2 +1,4 @@
 # KobeeBryant114514.github.io
-个人网页
+Scout here.Solo developer.
+@X:https://x.com/1424127349Kebi
+gmail:keyuzhong62@gmail.com
