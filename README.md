@@ -8,6 +8,6 @@ C++,Move,Python
 
 @X:https://x.com/1424127349Kebi
 
-@Telegram:@Scout0221
+@Telegram:https://t.me/Scout0221
 
 gmail:keyuzhong62@gmail.com
